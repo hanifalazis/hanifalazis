@@ -1,3 +1,5 @@
+![Header Image](https://github.com/hanifalazis/hanifalazis/blob/main/github-header-image.png)
+
 <h1 align="center">👋 Hello, I'm Muhammad Hanif Al Azis</h1>
 <p align="center">
   <i>A Data Enthusiast with a passion for solving real-world problems through clean, insightful, and actionable data!</i>

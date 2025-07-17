@@ -1,4 +1,3 @@
-![Header Image](https://github.com/hanifalazis/hanifalazis/blob/main/github-header-image.png)
 
 <h1 align="center">👋 Hello, I'm Muhammad Hanif Al Azis</h1>
 <p align="center">
